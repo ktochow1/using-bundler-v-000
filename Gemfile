@@ -9,7 +9,7 @@ group :development do
   gem "hashie"
   gem "sinatra", '1.4.4'
   gem "octokit", '~> 2.0'
-  # gem "rspec"
+  gem "rspec"
 end
 
 group :test do 
